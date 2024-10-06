@@ -34,11 +34,12 @@ I'm a passionate Software Engineer with a strong focus on data-related technolog
   Architected a cloud-based data warehousing solution using Google BigQuery and GCP services, resulting in improved data query performance by 40%.
 
 
-### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=45-Hrishi&show_icons=true&theme=radical)
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=45-Hrishi&show_icons=true&theme=radical&count_private=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=45-Hrishi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=45-Hrishi&layout=compact&theme=radical&langs_count=6)
+
 
 
 ### 📫 How to reach me:
