@@ -24,14 +24,16 @@ I'm a passionate Software Engineer with a strong focus on data-related technolog
 
 ### 🚀 Featured Projects
 
-- **[Project 1: Data Pipeline Automation](https://github.com/yourusername/project-1)**  
-  Built an automated data pipeline using Apache Airflow, Spark, and AWS S3 to streamline ETL processes, reducing manual intervention by 80%.
+- **[Project 1: MCQ Generator LLM Application](https://github.com/45-Hrishi/MCQ-Generator-LLM-Application)**  
+  MCQ Generator: This app generates 5 MCQs from a concept using Mistral AI. It pulls data from Wikipedia and stores questions & options in a CSV file, making quiz creation simple and     
+  efficient. 
 
-- **[Project 2: Machine Learning Model for Sales Forecasting](https://github.com/yourusername/project-2)**  
-  Developed a machine learning model to predict sales trends using Python (Scikit-learn, Pandas). Achieved a 95% accuracy rate on test data.
+- **[Project 2: End-to-End-Chest-Cancer-Prediction-Application](https://github.com/45-Hrishi/End-to-End-Chest-Cancer-Prediction-Application)**  
+  Deep learning model predicts chest cancer from X-rays. Pipelines include data ingestion, model setup, and training. DVC ensures data versioning, and MLflow tracks experiments. Logs 
+  capture results, ensuring a scalable workflow.
 
-- **[Project 3: Cloud-based Data Warehousing System](https://github.com/yourusername/project-3)**  
-  Architected a cloud-based data warehousing solution using Google BigQuery and GCP services, resulting in improved data query performance by 40%.
+- **[Project 3: End-to-End-Gemstone-Price-Prediction-Application](https://github.com/45-Hrishi/End-to-End-Gemstone-Price-Prediction-Application)**  
+  ML model predicts gemstone prices. Pipelines include data ingestion, model setup, and training. DVC ensures data versioning, and MLflow tracks experiments. Logs capture results, ensuring a scalable workflow.
 
 
 
