@@ -25,7 +25,7 @@ I'm a passionate Software Engineer with a strong focus on data-related technolog
 ### 🚀 Featured Projects
 
 - **[Project 1: MCQ Generator LLM Application](https://github.com/45-Hrishi/MCQ-Generator-LLM-Application)**  
-  MCQ Generator: This app generates 5 MCQs from a concept using Mistral AI. It pulls data from Wikipedia and stores questions & options in a CSV file, making quiz creation simple and     
+  MCQ Generator: This app generates 5 MCQs from a concept using Mistral AI. It uses uploaded pdf to create questions and stores questions & options in a CSV file, making quiz creation simple and     
   efficient. 
 
 - **[Project 2: End-to-End-Chest-Cancer-Prediction-Application](https://github.com/45-Hrishi/End-to-End-Chest-Cancer-Prediction-Application)**  
