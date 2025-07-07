@@ -1,8 +1,8 @@
 # Hi there, I'm Hrishikesh Kothawade 👋
 
-🚀 **Software Engineer | Data Enthusiast | Problem Solver**
+🚀 **Associate Machine Learning Engineer**
 
-I'm a passionate Software Engineer with a strong focus on data-related technologies, including Machine Learning, Deep Learning, and LLM applications. I enjoy transforming data into actionable insights and building robust, scalable models.
+I'm a passionate ML Engineer with a strong focus on data-related technologies, including Machine Learning, Deep Learning, and LLM applications. I enjoy transforming data into actionable insights and building robust, scalable models.
 
 - 💻 1+ years of experience in Software Engineering, focusing on data-related projects
 - 🔧 Proficient in: Python, SQL, Machine Learning and Deep Learning
