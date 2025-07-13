@@ -1,39 +1,31 @@
 # Hi there, I'm Hrishikesh Kothawade 👋
 
-🚀 **Associate Machine Learning Engineer**
+🚀 **Associate Machine Learning & Generative AI Engineer**
 
-I'm a passionate ML Engineer with a strong focus on data-related technologies, including Machine Learning, Deep Learning, and LLM applications. I enjoy transforming data into actionable insights and building robust, scalable models.
+I'm a passionate ML Engineer with a strong focus on **Generative AI**, **Large Language Models (LLMs)**, and real-world AI systems. I enjoy transforming complex business problems into scalable AI solutions that drive automation, insight, and impact.
 
-- 💻 1+ years of experience in Software Engineering, focusing on data-related projects
-- 🔧 Proficient in: Python, SQL, Machine Learning and Deep Learning
-- 📊 Experience in application development, data visualization (Power BI), and AI-based solutions
-- 🎯 Current focus: NLP, LLM applications, and cloud-based AI solutions
+- 💻 2+ years of experience in ML & AI, including 1+ year in Generative AI & LLM-based applications
+- 🤖 Built real-time LLM-based chatbots, RAG pipelines, and multi-agent systems for enterprise use cases
+- 🔧 Proficient in: Python, Transformers, TensorFlow, PyTorch, LangChain, LangGraph, OpenAI Agents SDK, Google Agents SDK
+- 📊 Skilled in MLOps (MLflow, DVC), visualization (Power BI, Streamlit), and cloud deployments (Azure, GCP)
+- 🎯 Current focus: Generative AI, Agentic Workflows, and AI
 
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0769AD?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLMs-4B32C3?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B86B?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM-4285F4?style=for-the-badge&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-A4C8E1?style=for-the-badge&logo=microsoftazure&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### 🚀 Featured Projects
-
-- **[Project 1: MCQ Generator LLM Application](https://github.com/45-Hrishi/MCQ-Generator-LLM-Application)**  
-  MCQ Generator: This app generates 5 MCQs from a concept using Mistral AI. It uses uploaded pdf to create questions and stores questions & options in a CSV file, making quiz creation simple and     
-  efficient. 
-
-- **[Project 2: End-to-End-Chest-Cancer-Prediction-Application](https://github.com/45-Hrishi/End-to-End-Chest-Cancer-Prediction-Application)**  
-  Deep learning model predicts chest cancer from X-rays. Pipelines include data ingestion, model setup, and training. DVC ensures data versioning, and MLflow tracks experiments. Logs 
-  capture results, ensuring a scalable workflow.
-
-- **[Project 3: End-to-End-Gemstone-Price-Prediction-Application](https://github.com/45-Hrishi/End-to-End-Gemstone-Price-Prediction-Application)**  
-  ML model predicts gemstone prices. Pipelines include data ingestion, model setup, and training. DVC ensures data versioning, and MLflow tracks experiments. Logs capture results, ensuring a scalable workflow.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
@@ -43,28 +35,11 @@ I'm a passionate ML Engineer with a strong focus on data-related technologies, i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=45-Hrishi&layout=compact&theme=radical&langs_count=6)
 
 
-
 ### 📫 How to reach me:
 
-- LinkedIn: [Hrishikesh Kothawade's Linkedin](https://www.linkedin.com/in/hrishikesh-kothawade-b0218b262/)
-- Email: [Email Me](mailto:hrishikeshkothawade1@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hrishikesh-kothawade-b0218b262/)
+- 📧 [Email Me](mailto:hrishikeshkothawade1@gmail.com)
 
 
 ### 🎉 Fun Fact:
-When I'm not coding or exploring new technologies, you can find me watching cricket 🏏 or playing it with friends! 🎉
-
-
-<!--
-**45-Hrishi/45-Hrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not working on cool AI stuff, you can find me watching or playing cricket 🏏 with friends!
